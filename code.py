@@ -1,0 +1,1 @@
+print(" i am the owner of my words")
