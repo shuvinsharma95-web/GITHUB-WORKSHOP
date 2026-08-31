@@ -1,0 +1,16 @@
+ 1023  git status
+ 1024  git commit -m "added the testing files"
+ 1025  git status
+ 1026  rm code.py
+ 1027  git restore code.py
+ 1028  git remote add origin https://github.com/shuvinsharma95-web/GITHUB-WORKSHOP.git
+ 1029  git remote -v
+ 1030  git push origin master
+ 1031  git status
+ 1032  git rm --cached code.py
+ 1033  git status
+ 1034  git add code.py
+ 1035  git status
+ 1036  rm code.py 
+ 1037  git restore code.py
+ 1038  git history
